@@ -1,9 +1,9 @@
-===== About =====
+### About ###
 
-A *very* thin Scala wrapper around Java `univocity-parsers` CSV parser.
+A **very** thin Scala wrapper around Java `univocity-parsers` CSV parser.
 Just to make usage more Scala friendly.
 
-===== Usage =====
+### Usage ###
 
 ```scala
 import java.io.File
